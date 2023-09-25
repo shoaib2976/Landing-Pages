@@ -3,10 +3,6 @@ body {
   color: #3a3f52;
 }
 /* Navbar */
-.navbar-nav .nav-link {
-  padding: 20px 0;
-  text-align: left;
-}
 .mobile-logo {
   margin: auto;
   padding-right: 50px;
